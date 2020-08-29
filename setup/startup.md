@@ -8,7 +8,7 @@ Any time commands are requested to be issued, those will happen in the 'Terminal
 
 Any time movements need to be made, those will happen in the 'Control' tab of the Octoprint web UI. The numbers underneath X/Y and Z will change the step-size accordingly.
 
-- [ ] Add the screenshot
+![](./images/Octoprint_Controls.png)
 
 ## Endstop Check
 
